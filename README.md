@@ -1,0 +1,1 @@
+Backtested a stock price predictive algorithm based on dynamic mode decomposition (DMD) which approximates the Koopman Operator for nonlinear dynamical systems. You can find most of the work in Koopman_DMD.ipynb.
